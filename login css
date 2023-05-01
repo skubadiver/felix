@@ -1,0 +1,33 @@
+/* Primary Color */
+body {
+  background-color: #005580;
+}
+
+/* Secondary Colors */
+h1, h2, h3, h4, h5, h6 {
+  color: #0077b6;
+}
+
+.btn-primary {
+  background-color: #fcbf49;
+  color: #fff;
+}
+
+body {
+  color: #ffffff;
+}
+
+/* Accent Colors */
+.navbar {
+  background-color: #414141;
+}
+
+.btn-danger {
+  background-color: #ff5a5f;
+  color: #fff;
+}
+
+.btn-info {
+  background-color: #00b4d8;
+  color: #fff;
+}
